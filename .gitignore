@@ -11,6 +11,8 @@ backend/venv/
 # Firebase secret keys
 backend/secrets/
 
+firebase.js
+
 # System files
 .DS_Store
 Thumbs.db
