@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Python virtual environment
+backend/venv/
+
+# Firebase secret keys
+backend/secrets/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite cache
+.vite/
+
+# VSCode
+.vscode/
+
+# IDE-specific
+.idea/
+*.iml
+
+# Coverage reports
+coverage/
+
+# Python (if Django is in same repo)
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# OS & temp files
+*.swp
+*.bak
+*.tmp
